@@ -1,0 +1,66 @@
+ 
+ .cover {
+   background-color: white;
+   margin-top: 230px;
+   width: 15em;
+   flex-direction: column;
+   align-items: center;
+   margin-left: 240px;
+ }
+
+ .cd-h2 {
+   color: rgb(65, 157, 238);
+   margin-top: -420px;
+   margin-left: 20px;
+ }
+
+ .cd-lest {
+   margin-left: 450px;
+   margin-top: -140px;
+   
+ }
+
+ .gw-kiyt{
+   border: 1px solid white;
+   width: 350px;
+   margin-left: 5px;
+  
+ }
+
+.cd-input{
+  width: 350px;
+  height: 50px;
+ text-align: center;
+ border: 1px solid rgb(223, 215, 205);
+ border-radius: 5px;
+ 
+ }
+
+ .cd-lrnt{
+     margin-top: -30px;
+    
+   
+ }
+ 
+.bf-mitr{
+  background-color: rgb(84, 162, 217);
+  width: 350px;
+  height: 50px;
+  border: 1px solid rgb(222, 205, 181);
+  border-radius:5px;
+  margin-top: 10px;
+}
+.myt{
+  margin-left: 150px;
+}
+.eye-open{
+  position: absolute;
+  right: 15px;
+  top: 50px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  max-width: 20px;
+  margin-right: 1530px;
+  margin-top:280px;
+}
+ 
